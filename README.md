@@ -16,3 +16,4 @@ The main idea of this solution is to use an ensemble of BERT models to extract g
  
  ![](https://user-images.githubusercontent.com/77696343/190137628-923c1053-e99f-4954-a090-8b4ff6916a45.png)
  
+To apply this pipeline to another dataset, just specify the correct paths after the libraries import section.
